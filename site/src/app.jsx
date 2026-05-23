@@ -7,7 +7,8 @@ const TABS = [
   { id: 'consequence', num: '04', label: 'The Consequence', icon: 'bar-chart-3', component: TabConsequence },
   { id: 'boundary', num: '05', label: 'The Boundary', icon: 'separator-horizontal', component: TabBoundary },
   { id: 'present', num: '06', label: 'The Present', icon: 'clock', component: TabPresent },
-  { id: 'method', num: '07', label: 'Method', icon: 'flask-conical', component: TabMethodology },
+  { id: 'counterfactual', num: '07', label: 'The Counterfactual', icon: 'git-branch', component: TabCounterfactual },
+  { id: 'method', num: '08', label: 'Method', icon: 'flask-conical', component: TabMethodology },
 ];
 
 function App() {

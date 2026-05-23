@@ -1,10 +1,10 @@
-// Tab 07 — The Methodology
+// Tab 08 — The Methodology
 
 function TabMethodology() {
   return (
     <div style={{ padding: '32px 48px' }}>
       <SectionHead
-        label="07 · The Methodology"
+        label="08 · The Methodology"
         title="How the analysis works."
         subtitle="Data sources, confidence labeling, the natural experiment design."
       />
@@ -76,6 +76,7 @@ function TabMethodology() {
             { code: 'M2', name: 'Boundary Discontinuity', desc: 'Regression discontinuity design at HOLC grade boundaries. Local polynomial regression with heteroskedasticity-robust standard errors.', tab: 'Tab 05' },
             { code: 'M3', name: 'Wealth Gap Decomposition', desc: 'Causal mediation analysis estimating what fraction of the racial wealth gap flows through homeownership exclusion.', tab: 'Tab 03' },
             { code: 'M4', name: 'Modern Redlining Detector', desc: 'Logistic regression on HMDA denial rates by race and geography, controlling for creditworthiness indicators.', tab: 'Tab 06' },
+            { code: 'M5', name: 'Counterfactual Ensemble', desc: '500-trajectory Monte Carlo ensemble modeling Black homeownership under fair GI Bill administration. Access fraction N(0.85, 0.08), compounding wealth transfer, per-period noise.', tab: 'Tab 07' },
           ].map(m => (
             <div key={m.code} style={{ background: 'var(--bg-2)', border: '1px solid var(--line)', padding: '16px 20px', borderRadius: 4 }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 6 }}>
