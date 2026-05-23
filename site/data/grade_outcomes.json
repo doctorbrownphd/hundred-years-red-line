@@ -1,0 +1,54 @@
+{
+  "A": {
+    "grade": "A",
+    "label": "Best",
+    "color": "#4daf4a",
+    "median_home_value": 385000,
+    "median_income": 82000,
+    "homeownership_rate": 71.2,
+    "life_expectancy": 80.4,
+    "pct_minority": 22.8,
+    "tree_canopy_pct": 38.2,
+    "college_pct": 48.5,
+    "poverty_rate": 8.2
+  },
+  "B": {
+    "grade": "B",
+    "label": "Still Desirable",
+    "color": "#377eb8",
+    "median_home_value": 310000,
+    "median_income": 68000,
+    "homeownership_rate": 62.5,
+    "life_expectancy": 78.9,
+    "pct_minority": 33.4,
+    "tree_canopy_pct": 31.6,
+    "college_pct": 38.1,
+    "poverty_rate": 12.4
+  },
+  "C": {
+    "grade": "C",
+    "label": "Declining",
+    "color": "#e6c832",
+    "median_home_value": 225000,
+    "median_income": 52000,
+    "homeownership_rate": 51.8,
+    "life_expectancy": 77.1,
+    "pct_minority": 48.7,
+    "tree_canopy_pct": 24.3,
+    "college_pct": 27.6,
+    "poverty_rate": 18.9
+  },
+  "D": {
+    "grade": "D",
+    "label": "Hazardous",
+    "color": "#e41a1c",
+    "median_home_value": 185000,
+    "median_income": 41000,
+    "homeownership_rate": 41.3,
+    "life_expectancy": 75.2,
+    "pct_minority": 63.1,
+    "tree_canopy_pct": 18.4,
+    "college_pct": 19.2,
+    "poverty_rate": 27.3
+  }
+}

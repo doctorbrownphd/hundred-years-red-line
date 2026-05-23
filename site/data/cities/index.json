@@ -1,0 +1,894 @@
+{
+ "Birmingham_AL": {
+  "count": 272,
+  "kb": 202.9
+ },
+ "Mobile_AL": {
+  "count": 93,
+  "kb": 50.5
+ },
+ "Montgomery_AL": {
+  "count": 81,
+  "kb": 49.9
+ },
+ "Little_Rock_AR": {
+  "count": 101,
+  "kb": 67.2
+ },
+ "Phoenix_AZ": {
+  "count": 100,
+  "kb": 53.0
+ },
+ "Fresno_CA": {
+  "count": 103,
+  "kb": 79.4
+ },
+ "Los_Angeles_CA": {
+  "count": 2997,
+  "kb": 2076.3
+ },
+ "Oakland_CA": {
+  "count": 568,
+  "kb": 581.7
+ },
+ "Sacramento_CA": {
+  "count": 151,
+  "kb": 86.5
+ },
+ "San_Diego_CA": {
+  "count": 414,
+  "kb": 417.2
+ },
+ "San_Francisco_CA": {
+  "count": 534,
+  "kb": 295.6
+ },
+ "San_Jose_CA": {
+  "count": 148,
+  "kb": 110.8
+ },
+ "Stockton_CA": {
+  "count": 89,
+  "kb": 37.0
+ },
+ "Denver_CO": {
+  "count": 313,
+  "kb": 234.7
+ },
+ "Pueblo_CO": {
+  "count": 101,
+  "kb": 60.7
+ },
+ "Bridgeport_and_Fairfield_CT": {
+  "count": 213,
+  "kb": 191.9
+ },
+ "Hartford_CT": {
+  "count": 176,
+  "kb": 155.9
+ },
+ "New_Britain_CT": {
+  "count": 61,
+  "kb": 50.2
+ },
+ "New_Haven_CT": {
+  "count": 176,
+  "kb": 131.7
+ },
+ "Stamford,_Darien,_and_New_Canaan_CT": {
+  "count": 138,
+  "kb": 189.2
+ },
+ "Waterbury_CT": {
+  "count": 77,
+  "kb": 78.8
+ },
+ "Jacksonville_FL": {
+  "count": 103,
+  "kb": 91.0
+ },
+ "Miami_FL": {
+  "count": 388,
+  "kb": 230.7
+ },
+ "St_Petersburg_FL": {
+  "count": 175,
+  "kb": 104.0
+ },
+ "Tampa_FL": {
+  "count": 113,
+  "kb": 77.9
+ },
+ "Atlanta_GA": {
+  "count": 424,
+  "kb": 245.0
+ },
+ "Augusta_GA": {
+  "count": 79,
+  "kb": 55.1
+ },
+ "Columbus_GA": {
+  "count": 69,
+  "kb": 39.0
+ },
+ "Macon_GA": {
+  "count": 95,
+  "kb": 46.9
+ },
+ "Savannah_GA": {
+  "count": 78,
+  "kb": 32.3
+ },
+ "Cedar_Rapids_IA": {
+  "count": 117,
+  "kb": 78.0
+ },
+ "Council_Bluffs_IA": {
+  "count": 55,
+  "kb": 48.0
+ },
+ "Davenport_IA": {
+  "count": 109,
+  "kb": 66.8
+ },
+ "Des_Moines_IA": {
+  "count": 163,
+  "kb": 121.0
+ },
+ "Dubuque_IA": {
+  "count": 50,
+  "kb": 62.9
+ },
+ "Sioux_City_IA": {
+  "count": 95,
+  "kb": 105.8
+ },
+ "Waterloo_IA": {
+  "count": 77,
+  "kb": 46.8
+ },
+ "Aurora_IL": {
+  "count": 72,
+  "kb": 41.4
+ },
+ "Chicago_IL": {
+  "count": 3115,
+  "kb": 2323.8
+ },
+ "Decatur_IL": {
+  "count": 84,
+  "kb": 55.9
+ },
+ "East_St_Louis_IL": {
+  "count": 125,
+  "kb": 66.1
+ },
+ "Joliet_IL": {
+  "count": 118,
+  "kb": 96.3
+ },
+ "Peoria_IL": {
+  "count": 83,
+  "kb": 73.0
+ },
+ "Rockford_IL": {
+  "count": 132,
+  "kb": 112.9
+ },
+ "Springfield_IL": {
+  "count": 99,
+  "kb": 59.4
+ },
+ "Evansville_IN": {
+  "count": 111,
+  "kb": 78.2
+ },
+ "Fort_Wayne_IN": {
+  "count": 136,
+  "kb": 88.4
+ },
+ "Indianapolis_IN": {
+  "count": 488,
+  "kb": 362.2
+ },
+ "Lake_Co_Gary_IN": {
+  "count": 203,
+  "kb": 141.0
+ },
+ "Muncie_IN": {
+  "count": 57,
+  "kb": 28.7
+ },
+ "South_Bend_IN": {
+  "count": 160,
+  "kb": 87.7
+ },
+ "Terre_Haute_IN": {
+  "count": 89,
+  "kb": 77.6
+ },
+ "Topeka_KS": {
+  "count": 98,
+  "kb": 52.3
+ },
+ "Wichita_KS": {
+  "count": 153,
+  "kb": 76.4
+ },
+ "Covington_KY": {
+  "count": 146,
+  "kb": 112.4
+ },
+ "Lexington_KY": {
+  "count": 95,
+  "kb": 45.0
+ },
+ "Louisville_KY": {
+  "count": 267,
+  "kb": 221.9
+ },
+ "New_Orleans_LA": {
+  "count": 480,
+  "kb": 206.7
+ },
+ "Shreveport_LA": {
+  "count": 99,
+  "kb": 63.2
+ },
+ "Arlington_MA": {
+  "count": 50,
+  "kb": 34.1
+ },
+ "Belmont_MA": {
+  "count": 61,
+  "kb": 36.9
+ },
+ "Boston_MA": {
+  "count": 406,
+  "kb": 336.9
+ },
+ "Braintree_MA": {
+  "count": 15,
+  "kb": 5.9
+ },
+ "Brockton_MA": {
+  "count": 75,
+  "kb": 72.4
+ },
+ "Brookline_MA": {
+  "count": 66,
+  "kb": 51.0
+ },
+ "Cambridge_MA": {
+  "count": 89,
+  "kb": 53.6
+ },
+ "Chelsea_MA": {
+  "count": 27,
+  "kb": 13.5
+ },
+ "Dedham_MA": {
+  "count": 25,
+  "kb": 16.5
+ },
+ "Everett_MA": {
+  "count": 29,
+  "kb": 20.5
+ },
+ "Fall_River_MA": {
+  "count": 67,
+  "kb": 79.0
+ },
+ "Fitchburg_MA": {
+  "count": 50,
+  "kb": 39.9
+ },
+ "Haverhill_MA": {
+  "count": 61,
+  "kb": 54.9
+ },
+ "Holyoke_Chicopee_MA": {
+  "count": 80,
+  "kb": 72.6
+ },
+ "Lawrence_MA": {
+  "count": 67,
+  "kb": 36.5
+ },
+ "Lexington_MA": {
+  "count": 27,
+  "kb": 17.8
+ },
+ "Lowell_MA": {
+  "count": 83,
+  "kb": 61.8
+ },
+ "Lynn_MA": {
+  "count": 95,
+  "kb": 62.9
+ },
+ "Malden_MA": {
+  "count": 46,
+  "kb": 33.0
+ },
+ "Medford_MA": {
+  "count": 37,
+  "kb": 23.7
+ },
+ "Melrose_MA": {
+  "count": 26,
+  "kb": 22.1
+ },
+ "Milton_MA": {
+  "count": 28,
+  "kb": 23.3
+ },
+ "Needham_MA": {
+  "count": 16,
+  "kb": 14.0
+ },
+ "New_Bedford_MA": {
+  "count": 70,
+  "kb": 70.3
+ },
+ "Newton_MA": {
+  "count": 66,
+  "kb": 70.8
+ },
+ "Pittsfield_MA": {
+  "count": 50,
+  "kb": 41.9
+ },
+ "Quincy_MA": {
+  "count": 56,
+  "kb": 65.8
+ },
+ "Revere_MA": {
+  "count": 32,
+  "kb": 26.5
+ },
+ "Salem_MA": {
+  "count": 52,
+  "kb": 33.4
+ },
+ "Saugus_MA": {
+  "count": 22,
+  "kb": 18.7
+ },
+ "Somerville_MA": {
+  "count": 64,
+  "kb": 37.7
+ },
+ "Waltham_MA": {
+  "count": 35,
+  "kb": 23.5
+ },
+ "Watertown_MA": {
+  "count": 30,
+  "kb": 25.5
+ },
+ "Winchester_MA": {
+  "count": 20,
+  "kb": 15.4
+ },
+ "Winthrop_MA": {
+  "count": 21,
+  "kb": 15.4
+ },
+ "Worcester_MA": {
+  "count": 138,
+  "kb": 145.6
+ },
+ "Baltimore_MD": {
+  "count": 460,
+  "kb": 349.9
+ },
+ "Portland_ME": {
+  "count": 88,
+  "kb": 124.5
+ },
+ "Battle_Creek_MI": {
+  "count": 90,
+  "kb": 45.6
+ },
+ "Bay_City_MI": {
+  "count": 56,
+  "kb": 24.2
+ },
+ "Detroit_MI": {
+  "count": 1426,
+  "kb": 753.5
+ },
+ "Flint_MI": {
+  "count": 171,
+  "kb": 86.4
+ },
+ "Grand_Rapids_MI": {
+  "count": 225,
+  "kb": 112.4
+ },
+ "Jackson_MI": {
+  "count": 74,
+  "kb": 51.8
+ },
+ "Kalamazoo_MI": {
+  "count": 108,
+  "kb": 51.2
+ },
+ "Lansing_MI": {
+  "count": 116,
+  "kb": 112.6
+ },
+ "Muskegon_MI": {
+  "count": 74,
+  "kb": 38.1
+ },
+ "Pontiac_MI": {
+  "count": 94,
+  "kb": 53.4
+ },
+ "Saginaw_MI": {
+  "count": 97,
+  "kb": 45.5
+ },
+ "Austin_MN": {
+  "count": 12,
+  "kb": 11.1
+ },
+ "Duluth_MN": {
+  "count": 100,
+  "kb": 128.7
+ },
+ "Minneapolis_MN": {
+  "count": 370,
+  "kb": 215.8
+ },
+ "Rochester_MN": {
+  "count": 19,
+  "kb": 15.3
+ },
+ "St_Cloud_MN": {
+  "count": 31,
+  "kb": 26.0
+ },
+ "St_Paul_MN": {
+  "count": 221,
+  "kb": 131.7
+ },
+ "Greater_Kansas_City_MO": {
+  "count": 517,
+  "kb": 299.3
+ },
+ "Springfield_MO": {
+  "count": 84,
+  "kb": 63.0
+ },
+ "St_Joseph_MO": {
+  "count": 79,
+  "kb": 45.4
+ },
+ "St_Louis_MO": {
+  "count": 605,
+  "kb": 511.6
+ },
+ "Jackson_MS": {
+  "count": 77,
+  "kb": 56.7
+ },
+ "Asheville_NC": {
+  "count": 60,
+  "kb": 88.2
+ },
+ "Charlotte_NC": {
+  "count": 132,
+  "kb": 104.3
+ },
+ "Durham_NC": {
+  "count": 66,
+  "kb": 42.5
+ },
+ "Greensboro_NC": {
+  "count": 80,
+  "kb": 70.6
+ },
+ "Winston-Salem_NC": {
+  "count": 94,
+  "kb": 74.5
+ },
+ "Fargo_ND": {
+  "count": 41,
+  "kb": 22.8
+ },
+ "Grand_Forks_ND": {
+  "count": 26,
+  "kb": 11.9
+ },
+ "Lincoln_NE": {
+  "count": 113,
+  "kb": 74.2
+ },
+ "Omaha_NE": {
+  "count": 153,
+  "kb": 175.6
+ },
+ "Manchester_NH": {
+  "count": 95,
+  "kb": 76.3
+ },
+ "Atlantic_City_NJ": {
+  "count": 93,
+  "kb": 69.9
+ },
+ "Bergen_Co_NJ": {
+  "count": 661,
+  "kb": 497.9
+ },
+ "Camden_NJ": {
+  "count": 160,
+  "kb": 118.8
+ },
+ "Essex_Co_NJ": {
+  "count": 782,
+  "kb": 482.7
+ },
+ "Hudson_Co_NJ": {
+  "count": 427,
+  "kb": 195.6
+ },
+ "Passaic_County_NJ": {
+  "count": 274,
+  "kb": 163.1
+ },
+ "Perth_Amboy_NJ": {
+  "count": 79,
+  "kb": 45.3
+ },
+ "Trenton_NJ": {
+  "count": 120,
+  "kb": 113.5
+ },
+ "Union_Co_NJ": {
+  "count": 465,
+  "kb": 296.5
+ },
+ "Albany_NY": {
+  "count": 111,
+  "kb": 69.7
+ },
+ "Binghamton-Johnson_City_NY": {
+  "count": 94,
+  "kb": 59.1
+ },
+ "Bronx_NY": {
+  "count": 638,
+  "kb": 302.5
+ },
+ "Brooklyn_NY": {
+  "count": 1334,
+  "kb": 524.1
+ },
+ "Buffalo_NY": {
+  "count": 232,
+  "kb": 149.0
+ },
+ "Elmira_NY": {
+  "count": 63,
+  "kb": 32.8
+ },
+ "Jamestown_NY": {
+  "count": 59,
+  "kb": 31.2
+ },
+ "Lower_Westchester_Co_NY": {
+  "count": 382,
+  "kb": 294.3
+ },
+ "Manhattan_NY": {
+  "count": 485,
+  "kb": 187.0
+ },
+ "Niagara_Falls_NY": {
+  "count": 54,
+  "kb": 38.4
+ },
+ "Poughkeepsie_NY": {
+  "count": 51,
+  "kb": 32.3
+ },
+ "Queens_NY": {
+  "count": 1482,
+  "kb": 743.1
+ },
+ "Rochester_NY": {
+  "count": 297,
+  "kb": 183.0
+ },
+ "Schenectady_NY": {
+  "count": 127,
+  "kb": 62.8
+ },
+ "Staten_Island_NY": {
+  "count": 332,
+  "kb": 174.7
+ },
+ "Syracuse_NY": {
+  "count": 231,
+  "kb": 117.8
+ },
+ "Troy_NY": {
+  "count": 104,
+  "kb": 53.4
+ },
+ "Utica_NY": {
+  "count": 109,
+  "kb": 60.0
+ },
+ "Akron_OH": {
+  "count": 333,
+  "kb": 271.5
+ },
+ "Canton_OH": {
+  "count": 94,
+  "kb": 56.7
+ },
+ "Cleveland_OH": {
+  "count": 998,
+  "kb": 564.2
+ },
+ "Columbus_OH": {
+  "count": 376,
+  "kb": 208.6
+ },
+ "Dayton_OH": {
+  "count": 222,
+  "kb": 171.8
+ },
+ "Hamilton_OH": {
+  "count": 55,
+  "kb": 35.3
+ },
+ "Lima_OH": {
+  "count": 89,
+  "kb": 55.1
+ },
+ "Lorain_OH": {
+  "count": 51,
+  "kb": 38.0
+ },
+ "Portsmouth_OH": {
+  "count": 49,
+  "kb": 34.4
+ },
+ "Springfield_OH": {
+  "count": 93,
+  "kb": 45.5
+ },
+ "Toledo_OH": {
+  "count": 332,
+  "kb": 210.2
+ },
+ "Warren_OH": {
+  "count": 48,
+  "kb": 28.3
+ },
+ "Youngstown_OH": {
+  "count": 189,
+  "kb": 148.5
+ },
+ "Oklahoma_City_OK": {
+  "count": 309,
+  "kb": 195.8
+ },
+ "Tulsa_OK": {
+  "count": 110,
+  "kb": 62.6
+ },
+ "Portland_OR": {
+  "count": 400,
+  "kb": 232.5
+ },
+ "Allentown_PA": {
+  "count": 67,
+  "kb": 62.4
+ },
+ "Altoona_PA": {
+  "count": 87,
+  "kb": 79.7
+ },
+ "Bethlehem_PA": {
+  "count": 64,
+  "kb": 33.9
+ },
+ "Chester_PA": {
+  "count": 42,
+  "kb": 21.8
+ },
+ "Erie_PA": {
+  "count": 156,
+  "kb": 100.8
+ },
+ "Harrisburg_PA": {
+  "count": 112,
+  "kb": 86.7
+ },
+ "Johnstown_PA": {
+  "count": 78,
+  "kb": 60.0
+ },
+ "Lancaster_PA": {
+  "count": 81,
+  "kb": 31.2
+ },
+ "McKeesport_PA": {
+  "count": 54,
+  "kb": 45.8
+ },
+ "New_Castle_PA": {
+  "count": 58,
+  "kb": 33.2
+ },
+ "Philadelphia_PA": {
+  "count": 860,
+  "kb": 571.4
+ },
+ "Pittsburgh_PA": {
+  "count": 641,
+  "kb": 780.4
+ },
+ "Wilkes-Barre_PA": {
+  "count": 80,
+  "kb": 76.8
+ },
+ "York_PA": {
+  "count": 96,
+  "kb": 65.6
+ },
+ "Pawtucket_&_Central_Falls_RI": {
+  "count": 94,
+  "kb": 68.5
+ },
+ "Providence_RI": {
+  "count": 177,
+  "kb": 165.0
+ },
+ "Woonsocket_RI": {
+  "count": 34,
+  "kb": 32.2
+ },
+ "Columbia_SC": {
+  "count": 81,
+  "kb": 52.5
+ },
+ "Chattanooga_TN": {
+  "count": 98,
+  "kb": 164.5
+ },
+ "Knoxville_TN": {
+  "count": 117,
+  "kb": 121.4
+ },
+ "Memphis_TN": {
+  "count": 182,
+  "kb": 210.1
+ },
+ "Nashville_TN": {
+  "count": 118,
+  "kb": 250.7
+ },
+ "Amarillo_TX": {
+  "count": 74,
+  "kb": 40.3
+ },
+ "Austin_TX": {
+  "count": 123,
+  "kb": 91.0
+ },
+ "Beaumont_TX": {
+  "count": 50,
+  "kb": 24.7
+ },
+ "Dallas_TX": {
+  "count": 294,
+  "kb": 232.9
+ },
+ "El_Paso_TX": {
+  "count": 90,
+  "kb": 57.7
+ },
+ "Fort_Worth_TX": {
+  "count": 224,
+  "kb": 170.8
+ },
+ "Galveston_TX": {
+  "count": 46,
+  "kb": 38.3
+ },
+ "Houston_TX": {
+  "count": 268,
+  "kb": 172.9
+ },
+ "Port_Arthur_TX": {
+  "count": 27,
+  "kb": 18.8
+ },
+ "San_Antonio_TX": {
+  "count": 220,
+  "kb": 185.7
+ },
+ "Wichita_Falls_TX": {
+  "count": 33,
+  "kb": 24.1
+ },
+ "Ogden_UT": {
+  "count": 85,
+  "kb": 65.1
+ },
+ "Salt_Lake_City_UT": {
+  "count": 147,
+  "kb": 139.6
+ },
+ "Lynchburg_VA": {
+  "count": 51,
+  "kb": 40.8
+ },
+ "Newport_News_VA": {
+  "count": 38,
+  "kb": 20.6
+ },
+ "Norfolk_VA": {
+  "count": 334,
+  "kb": 333.0
+ },
+ "Richmond_VA": {
+  "count": 190,
+  "kb": 165.9
+ },
+ "Roanoke_VA": {
+  "count": 84,
+  "kb": 75.2
+ },
+ "Seattle_WA": {
+  "count": 331,
+  "kb": 237.8
+ },
+ "Spokane_WA": {
+  "count": 205,
+  "kb": 181.4
+ },
+ "Tacoma_WA": {
+  "count": 157,
+  "kb": 79.0
+ },
+ "Kenosha_WI": {
+  "count": 74,
+  "kb": 49.0
+ },
+ "Madison_WI": {
+  "count": 125,
+  "kb": 81.5
+ },
+ "Milwaukee_Co_WI": {
+  "count": 624,
+  "kb": 549.7
+ },
+ "Oshkosh_WI": {
+  "count": 56,
+  "kb": 23.9
+ },
+ "Racine_WI": {
+  "count": 98,
+  "kb": 42.3
+ },
+ "Charleston_WV": {
+  "count": 86,
+  "kb": 67.1
+ },
+ "Huntington_WV": {
+  "count": 112,
+  "kb": 67.9
+ },
+ "Wheeling_WV": {
+  "count": 49,
+  "kb": 40.7
+ }
+}

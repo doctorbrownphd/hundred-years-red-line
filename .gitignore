@@ -1,0 +1,8 @@
+pipeline/data/raw/
+pipeline/data/clean/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.idea/
+.vscode/

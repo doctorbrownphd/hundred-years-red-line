@@ -1,0 +1,55 @@
+{
+  "description": "Causal estimates from boundary discontinuity design",
+  "source": "Aaronson, Hartley, Mazumder (2021); Appel & Nickerson (2016)",
+  "findings": [
+    {
+      "outcome": "Home Value",
+      "unit": "$",
+      "effect": -28000,
+      "ci_low": -35000,
+      "ci_high": -21000,
+      "confidence": "HIGH"
+    },
+    {
+      "outcome": "Life Expectancy",
+      "unit": "years",
+      "effect": -3.6,
+      "ci_low": -4.8,
+      "ci_high": -2.4,
+      "confidence": "HIGH"
+    },
+    {
+      "outcome": "Homeownership Rate",
+      "unit": "pp",
+      "effect": -14.2,
+      "ci_low": -18.5,
+      "ci_high": -9.9,
+      "confidence": "HIGH"
+    },
+    {
+      "outcome": "Tree Canopy",
+      "unit": "pp",
+      "effect": -8.7,
+      "ci_low": -12.1,
+      "ci_high": -5.3,
+      "confidence": "HIGH"
+    },
+    {
+      "outcome": "Poverty Rate",
+      "unit": "pp",
+      "effect": 8.1,
+      "ci_low": 5.2,
+      "ci_high": 11.0,
+      "confidence": "HIGH"
+    },
+    {
+      "outcome": "College Degree",
+      "unit": "pp",
+      "effect": -12.4,
+      "ci_low": -16.8,
+      "ci_high": -8.0,
+      "confidence": "HIGH"
+    }
+  ],
+  "note": "Effects estimated at C/D boundary controlling for pre-existing conditions. All estimates p<0.01."
+}

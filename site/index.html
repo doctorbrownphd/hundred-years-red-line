@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=1440" />
+<title>The Red Line · One Hundred Years</title>
+<meta name="description" content="The Red Line — 239 cities graded by the federal government in the 1930s. The line is still working. A data investigation into redlining and its consequences." />
+<meta property="og:title" content="The Red Line · One Hundred Years" />
+<meta property="og:description" content="In the 1930s, the federal government drew lines around American neighborhoods. The consequences compound every year." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://redline.onehundredyears.report" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Space+Mono:wght@400;700&family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,500;8..60,600&display=swap" rel="stylesheet">
+<link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+<style>
+  :root {
+    --bg: #1A1A1A;
+    --bg-2: #222;
+    --bg-3: #2A2A2A;
+    --ink: #F0EDE6;
+    --ink-dim: #999;
+    --ink-dimmer: #444;
+    --line: #333;
+    --line-2: #444;
+    --gold: #C9A84C;
+    --grade-a: #4daf4a;
+    --grade-b: #377eb8;
+    --grade-c: #e6c832;
+    --grade-d: #c0392b;
+    --grade-a-bg: #1E2A1E;
+    --grade-b-bg: #1E2840;
+    --grade-c-bg: #3A3010;
+    --grade-d-bg: #6B1A1A;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink); font-family: 'Source Serif 4', Georgia, serif; font-variant-numeric: tabular-nums; }
+  body { min-width: 1440px; overflow-x: auto; }
+  .mono { font-family: 'Space Mono', ui-monospace, monospace; }
+  .garamond { font-family: 'EB Garamond', 'Times New Roman', serif; }
+  .serif { font-family: 'Source Serif 4', Georgia, serif; }
+  ::selection { background: rgba(192,57,43,0.35); color: #fff; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes pulse { 0%, 100% { opacity: 0.6; } 50% { opacity: 1; } }
+  .grain::before {
+    content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 100;
+    background-image: radial-gradient(rgba(240,237,230,0.03) 1px, transparent 1px);
+    background-size: 3px 3px; mix-blend-mode: screen; opacity: 0.5;
+  }
+  #root { position: relative; }
+</style>
+</head>
+<body class="grain">
+
+<div id="root"></div>
+
+<script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react@18.3.1/umd/react.production.min.js" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" crossorigin="anonymous"></script>
+
+<script type="text/babel" src="src/data.jsx"></script>
+<script type="text/babel" src="src/atoms.jsx"></script>
+<script type="text/babel" src="src/splash.jsx"></script>
+<script type="text/babel" src="src/tab-map.jsx"></script>
+<script type="text/babel" src="src/tab-grade.jsx"></script>
+<script type="text/babel" src="src/tab-boom.jsx"></script>
+<script type="text/babel" src="src/tab-consequence.jsx"></script>
+<script type="text/babel" src="src/tab-boundary.jsx"></script>
+<script type="text/babel" src="src/tab-present.jsx"></script>
+<script type="text/babel" src="src/tab-methodology.jsx"></script>
+<script type="text/babel" src="src/app.jsx"></script>
+
+</body>
+</html>

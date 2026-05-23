@@ -1,0 +1,82 @@
+{
+  "timeline": [
+    {
+      "year": 1963,
+      "white": 56000,
+      "black": 6000,
+      "ratio": 9.3
+    },
+    {
+      "year": 1983,
+      "white": 91000,
+      "black": 10000,
+      "ratio": 9.1
+    },
+    {
+      "year": 1989,
+      "white": 112000,
+      "black": 9000,
+      "ratio": 12.4
+    },
+    {
+      "year": 1998,
+      "white": 116000,
+      "black": 12000,
+      "ratio": 9.7
+    },
+    {
+      "year": 2004,
+      "white": 134000,
+      "black": 13000,
+      "ratio": 10.3
+    },
+    {
+      "year": 2007,
+      "white": 152000,
+      "black": 17000,
+      "ratio": 8.9
+    },
+    {
+      "year": 2010,
+      "white": 113000,
+      "black": 6000,
+      "ratio": 18.8
+    },
+    {
+      "year": 2013,
+      "white": 132000,
+      "black": 11000,
+      "ratio": 12.0
+    },
+    {
+      "year": 2016,
+      "white": 163000,
+      "black": 16600,
+      "ratio": 9.8
+    },
+    {
+      "year": 2019,
+      "white": 189000,
+      "black": 24100,
+      "ratio": 7.8
+    },
+    {
+      "year": 2022,
+      "white": 285000,
+      "black": 44900,
+      "ratio": 6.3
+    }
+  ],
+  "levittown": {
+    "purchase_year": 1947,
+    "purchase_price": 7990,
+    "current_value": 420000,
+    "appreciation_pct": 5157,
+    "gi_bill_mortgages_ny_nj_1950": 67000,
+    "gi_bill_nonwhite_pct": 0.8
+  },
+  "fha": {
+    "total_1934_1962_billions": 120,
+    "nonwhite_pct": 2.0
+  }
+}
