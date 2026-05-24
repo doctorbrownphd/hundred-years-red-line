@@ -33,11 +33,12 @@ function App() {
       }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
           <SeriesMark />
-          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#C9A84C" strokeWidth="1.2" strokeLinecap="round" strokeLinejoin="round" style={{ opacity: 0.35, flexShrink: 0, marginTop: 14 }}>
-            <path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/>
-          </svg>
           <div>
-            <span className="garamond" style={{ fontSize: 18, color: 'var(--ink)', letterSpacing: -0.5 }}>The Red Line</span>
+            <span className="garamond" style={{ fontSize: 18, color: 'var(--ink)', letterSpacing: -0.5, display: 'flex', alignItems: 'center', gap: 16 }}>The Red Line
+              <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#C9A84C" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round" style={{ opacity: 0.25, flexShrink: 0 }}>
+                <path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/>
+              </svg>
+            </span>
             <Tick style={{ marginLeft: 12 }}>One Hundred Years · Issue 09</Tick>
           </div>
         </div>
