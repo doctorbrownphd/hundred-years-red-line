@@ -33,7 +33,7 @@ function App() {
       }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
           <SeriesMark />
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#C9A84C" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ opacity: 0.2, flexShrink: 0 }}>
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#C9A84C" strokeWidth="1.2" strokeLinecap="round" strokeLinejoin="round" style={{ opacity: 0.35, flexShrink: 0, marginTop: 14 }}>
             <path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/>
           </svg>
           <div>
